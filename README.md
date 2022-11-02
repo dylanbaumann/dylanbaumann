@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @dylanbaumann
+- 👀 I’m interested in front-end performance, World of Warcraft, pickling, and bad movies.
+- 🌱 I’m currently learning how to paint tabletop miniatures.
+- 📫 You can reach me on linkedin here: https://www.linkedin.com/in/dylanbaumanndesign/
